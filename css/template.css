@@ -16,7 +16,7 @@ html {
 
 /*-- container for all the columns --*/
 .grid-container{
-  width: 100%;
+  width: 505px;
   margin: 0 auto;
 	position: relative; /* this is needed for any children to use position absolute */
 }

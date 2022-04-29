@@ -144,7 +144,7 @@ img{
   background-image:url('images/back02.jpg');
   background-size: contain;
   position: relative;
-  left:35%;
+  /* left:35%; */
   width:505px;
   height: 780px;
   /* border: 1px solid white; */
